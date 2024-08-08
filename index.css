@@ -1,0 +1,43 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(000000_413964190_kdpmpp2m15_PS7.5_PC_background._GHAZALI._Digital_art._Concept_art_[upscaled].jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+form{
+    border: 2px solid rgba(12, 28, 121, 0.918);
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+    margin: 79px auto;
+    
+}
+h1{
+    text-align: center;
+    color: #2c2eac;
+
+}
+.in{
+    height: 30px;
+    margin: 0px 0px 30px 3px;
+    border-radius: 20px ;
+}
+.in2{
+    height: 30px;
+    margin: 0px 0px 30px 3px;
+    border-radius: 20px ;
+}
+.submit{
+    margin: 70px 0px 30px 120px;
+}
+a{
+    margin: 55px 0px 80px 160px;
+}
